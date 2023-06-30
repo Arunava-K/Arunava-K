@@ -1,2 +1,2 @@
 ### Hi there 👋
-![image](https://github.com/Arunava-K/Arunava-K/assets/78034370/75849e53-0d26-4ff0-87f7-08e08c7489e8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WORK+IN+PROGRESS)](https://git.io/typing-svg)
